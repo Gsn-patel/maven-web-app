@@ -16,6 +16,22 @@
     </dependency>
    
   </dependencies>
+
+  <settings>
+  <profiles>
+    <profile>
+      <id>sonar</id>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
+      <properties>
+        <!-- SonarQube server URL -->
+        <sonar.host.url>http://13.201.67.176:9000/</sonar.host.url>
+      </properties>
+    </profile>
+  </profiles>
+</settings>
+  
   <build>
     <finalName>maven-web-app</finalName>
     <plugins>
