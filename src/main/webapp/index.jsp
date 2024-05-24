@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to SATYA TECH SOL - Software Company <font></h1>
+<h1><font color='red'> Welcome to PAWAN KALYAN TECH SOL - Software Company <font></h1>
 
 <a href="https://satyatechsol.com/online-training-schedules">Click Here To See Satyatechsol company Schedules</a>
   
