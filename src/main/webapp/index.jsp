@@ -4,7 +4,7 @@
 
 <a href="https://satyatechsol.com/online-training-schedules">Click Here To See Satyatechsol company Schedules</a>
   
-  <h2> Call Us : + 91 - 9640040092 </h2>
+  <h2> Call Us : + 91 - 0000000000 </h2>
   
   <h3> Ofc Location : ameerpet, hyderabad </h3>
   
